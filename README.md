@@ -1,4 +1,4 @@
-### Hi there 👋
+### README TEST
 
 <!--
 **JeongSeonmi/JeongSeonmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pm3818)](https://solved.ac/pm3818)
