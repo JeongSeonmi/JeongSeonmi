@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=README TEST&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=README%TEST&fontSize=90" />
 
 <!--
 **JeongSeonmi/JeongSeonmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
