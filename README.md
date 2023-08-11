@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-//<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> 
-//<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
+img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> 
+img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pm3818)](https://solved.ac/pm3818)
